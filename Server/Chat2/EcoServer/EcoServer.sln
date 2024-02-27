@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoServer", "EcoServer\EcoServer.csproj", "{F81A3665-1455-42FB-AEEB-72330F72FAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoClient", "..\EcoClient\EcoClient.csproj", "{A8E83748-887D-463C-8277-1595131D8706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81A3665-1455-42FB-AEEB-72330F72FAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81A3665-1455-42FB-AEEB-72330F72FAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81A3665-1455-42FB-AEEB-72330F72FAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81A3665-1455-42FB-AEEB-72330F72FAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E83748-887D-463C-8277-1595131D8706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E83748-887D-463C-8277-1595131D8706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E83748-887D-463C-8277-1595131D8706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E83748-887D-463C-8277-1595131D8706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87FE745B-9F11-498C-A1F5-E77ADFB30761}
+	EndGlobalSection
+EndGlobal
